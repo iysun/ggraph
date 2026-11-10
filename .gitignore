@@ -1,0 +1,6 @@
+/ggraph
+/ggraph.exe
+*.exe
+/dist/
+.idea/
+.vscode/
